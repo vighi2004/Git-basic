@@ -6,3 +6,6 @@ num2 = float(input("Enter second number: "))
 result = num1 + num2
 
 print("Addition:", result)
+
+subtract = num1 - num2
+print("Subtraction:", subtract)
