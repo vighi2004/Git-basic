@@ -14,3 +14,8 @@ print("Subtraction:", subtract)
 multiply = num1 * num2
 print("Multiplication:", multiply)
 
+if num2 != 0:
+    divide = num1 / num2
+    print("Division:", divide)
+else:
+    print("Cannot divide by zero")
