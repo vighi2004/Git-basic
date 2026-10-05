@@ -9,3 +9,8 @@ print("Addition:", result)
 
 subtract = num1 - num2
 print("Subtraction:", subtract)
+
+#lab 1b changes adding fucntionalies multplication and divide.
+multiply = num1 * num2
+print("Multiplication:", multiply)
+
